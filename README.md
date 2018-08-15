@@ -1,5 +1,5 @@
-# API Project: URL Shortener Microservice for freeCodeCamp
-
+# URL SHORTNER MICROSERVICE!!
+### How To USE: add the MONGOLAB_URI=<your mongodb connection string> in your .env file and Voila!
 
 ### User Stories
 
