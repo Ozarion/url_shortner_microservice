@@ -1,5 +1,5 @@
 # URL SHORTNER MICROSERVICE!!
-### How To USE: add the MONGOLAB_URI=<your mongodb connection string> in your .env file and Voila!
+### How To USE: add the MONGOLAB_URI=&lt;your mongodb connection string&gt; in your .env file and Voila!
 
 ### User Stories
 
